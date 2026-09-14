@@ -2,7 +2,7 @@ RESEARCH REPOSITORY
 
 Introduction 
 
-This repository contains my practice and research work for Assessment 3. It demonstrates and explains the programming concepts I have learned through different activities. 
+This repository contains my practice and research work for the project. It demonstrates and explains the programming concepts I have learned through different activities in software development. 
 
 The repository includes Python programs covering basic programming, conditional statements, functions, data structures, validation, and Object-Oriented Programming (OOP). 
 
